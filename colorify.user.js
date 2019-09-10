@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         colorify
 // @namespace    https://ameer.io/colorify
-// @version      0.2
+// @version      0.3
 // @description  colorify esp8266 logs
 // @author       Ameer Dawood
 // @match        http://*.lan/log
@@ -18,7 +18,7 @@
                                               font-family: monospace; \
                                               white-space: pre; \
                                               color: rgb(187, 187, 187); \
-                                              background-color:rgb(45,15,44); \
+                                              background-color: rgb(45,15,44); \
                                           } \
                                           span {line-height: 18px;} \
                                           .info {background-color: green;} \
