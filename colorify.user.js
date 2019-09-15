@@ -1,12 +1,18 @@
 // ==UserScript==
 // @name         colorify
 // @namespace    https://ameer.io/colorify
-// @version      0.3
+// @version      0.4
 // @description  colorify esp8266 logs
 // @author       Ameer Dawood
+// @homepage     https://ameer.io/colorify
+// @icon         https://ameer.io/favicon.ico
+// @updateURL    https://github.com/ameer1234567890/colorify/raw/gh-pages/colorify.user.js
+// @downloadURL  https://github.com/ameer1234567890/colorify/raw/gh-pages/colorify.user.js
 // @match        http://*.lan/log
 // @grant        none
 // ==/UserScript==
+
+/*jshint multistr: true */
 
 (function() {
     'use strict';
