@@ -12,7 +12,7 @@
 // @grant        none
 // ==/UserScript==
 
-/*jshint multistr: true */
+/* jshint multistr: true */
 
 (function() {
     'use strict';
