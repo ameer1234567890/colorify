@@ -1,7 +1,8 @@
 // ==UserScript==
 // @name         colorify
 // @namespace    https://ameer.io/colorify
-// @version      0.4
+// @version      0.5.0
+// @date         2019-11-02
 // @description  colorify esp8266 logs
 // @author       Ameer Dawood
 // @homepage     https://ameer.io/colorify
